@@ -1,6 +1,6 @@
 # MVP-Prediction-Mid
 Predicts the NBA MVP using mid-season stats
 
-USING MACHINE LEARNING MODELS TO PREDICT THE 2018-2019 NBA MVP
+Using Machine Learning Models to predict the 2018-2019 NBA MVP
 
-DATA WAS TAKEN FROM BEFORE THE ALL STAR BREAK 2019-01-14
+Data was taken before the all star break, 2019-01-14
